@@ -1,12 +1,36 @@
-		Batman = {
-			GrappleHook = {1,2300747259},
-			Glide = {1},
-			Batarang = {1},
-			BatmanOutfit = {1},
-			Batman = {2300747259}
-		},
-		Spiderman = {
-			["Web Swing"] = {2300747259},
-			SpidermanOutfit = {1},
-			Spiderman = {1}
-		}
+Batman = {
+	GrappleHook = {1,2300747259},
+	Glide = {1},
+	Batarang = {1},
+	BatmanOutfit = {1},
+	Batman = {2300747259}
+}.
+Spiderman = {
+	["Web Swing"] = {2300747259},
+	SpidermanOutfit = {1},
+	Spiderman = {1}
+}
+ReverseFlash = {
+	["Dash Punch"] = {1},
+        ["Speed Force"] = {1},
+	ReverseFlashOutfit = {1},
+	ReverseFlash = {1}
+}.
+Invincible = {
+	["Super Punch"] = {1},
+	Fly = {1},
+	InvincibleOutfit = {1},
+	Invincible = {1}
+}.
+Nightwing = {
+	GrappleHook = {1,2300747259},
+	Glide = {1},
+	Batarang = {1},
+	NightwingOutfit = {1},
+	Nightwing = {2300747259}
+}.
+Blackpanther = {
+	Claws = {1},
+	BlackpantherSuit = {1},
+	Blackpanther = {2300747259}
+}.
