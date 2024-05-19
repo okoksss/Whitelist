@@ -1,3 +1,12 @@
-{
-["Batman"] = 2300747259
-}
+		Batman = {
+			GrappleHook = {1,2300747259},
+			Glide = {1},
+			Batarang = {1},
+			BatmanOutfit = {1},
+			Batman = {2300747259}
+		},
+		Spiderman = {
+			["Web Swing"] = {2300747259},
+			SpidermanOutfit = {1},
+			Spiderman = {1}
+		}
