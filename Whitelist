@@ -1,36 +1,163 @@
-Batman = {
-	GrappleHook = {1,2300747259},
-	Glide = {1},
-	Batarang = {1},
-	BatmanOutfit = {1},
-	Batman = {2300747259}
-}.
-Spiderman = {
-	["Web Swing"] = {2300747259},
-	SpidermanOutfit = {1},
-	Spiderman = {1}
+Whitelist.SuperPowers = {
+	Batman = {
+		GrappleHook = {1, 1},
+		Glide = {1},
+		Batarang = {1},
+		BatmanOutfit = {1},
+		Batman = {4368384573}
+	},
+	Mark45 = {
+		Mark45 = {4971164958, 4368384573}
+	},
+	["Miles-Morales"] = {
+		["Web Swing"] = {1},
+		["Wall-Climb"] = {1},
+		SpiderManOutfit = {1},
+		["Miles-Morales"] = {2300747259}
+	},
+	["Iron-Spider"] = {
+		["Web Swing"] = {1},
+		SpidermanOutfit = {1},
+		["Iron-Spider"] = {4971164958}
+	},
+	["SpidermanOLD"] = {
+		["Web Swing"] = {1},
+		SpiderManOutfit = {1},
+		SpidermanOLD = {1}
+	},
+	ReverseFlash = {
+		["Dash Punch"] = {1},
+		["Speed Force"] = {1},
+		ReverseFlashOutfit = {1},
+		ReverseFlash = {1}
+	},
+	GreenGoblin = {
+		["Goblin Glider"] = {1},
+		["[GoblinGrenade]"] = {1},
+		GreenGoblinOutfit = {1},
+		GreenGoblin = {1}
+	},
+	Flash = {
+		["Dash PunchF"] = {1},
+		FlashOutfit = {1},
+		Flash = {1}
+	},
+	Bats = {
+		Bats = {1}
+	},
+	Dash = {
+		Dash = {2300747259}
+	},
+	["Magic Wand"] = {
+		["Magic Wand"] = {4971164958, 2300747259, 1}
+	},
+	Ghost = {
+		Ghost = {2300747259, 1},
+	},
+	InvisibleHit = {
+		InvisibleHit = {2300747259, 4368384573}
+	},
+	IronFist = {
+		["Chi Fists"] = {1},
+		IronFistSuit = {1},
+		IronFist = {2300747259, 1}
+	},
+	Joker = {
+		Escape = {1},
+		Crowbar = {1},
+		["Money Bag"] = {2300747259, 4971164958},
+		Costume = {1},
+		Joker = {1}
+		
+	},
+	RedHulk = {
+		ANGRYY = {2300747259}
+	},
+	Antman = {
+		SizeDown = {1},
+		SizeUp = {1},
+		Antman = {1}
+	},
+	TimeSkip = {
+		TimeSkip = {2300747259}
+	},
+	Venom = {
+		Symbiote = {4971164958}
+	},
+	Carnage = {
+		Symbiote = {1}
+	},
+	Wolverine = {
+		Claws = {1},
+		WolverineOutfit = {1},
+		Wolverine = {2300747259, 4971164958}
+	},
+	Spectrum = {
+		DarkHeart = {1},
+		["[Grab]"] = {1},
+		Spectrum = {2300747259}
+	},
+	SpiritOrb = {
+		SpiritOrb = {1}
+	},
+	["Evil-Batman"] = {
+		GrappleHook = {2300747259, 4971164958},
+		Glide = {2300747259, 4971164958},
+		Batarang = {2300747259, 4971164958},
+		BatmanOutfit = {1},
+		["Evil-Batman"] = {}
+	},
+	["The-Thing"] = {
+		ANGRYY = {}
+	},
+	Catwoman = {
+		["Cat Speed"] = {1},
+		CatwomanWhip = {1},
+		Costume = {1},
+		Catwoman = {1}
+	},
+	GreenLantern = {
+		["Energy Hammer"] = {1},
+		["Energy Beam"] = {1},
+		["Energy Shield"] = {1},
+		Flight = {1},
+		Costume = {1},
+		GreenLantern = {1}
+	},
+	Invincible = {
+		["Super Punch"] = {1},
+		Fly = {1},
+		InvincibleOutfit = {1},
+		Invincible = {1}
+	},
+	["Old-Invincible"] = {
+		["Super Punch"] = {1},
+		Fly = {1},
+		InvincibleOutfit = {1},
+		["Old-Invincible"] = {2300747259, 4971164958}
+	},
+	Nightwing = {
+		GrappleHook = {1, 1},
+		Glide = {1},
+		Batarang = {1},
+		NightwingOutfit = {1},
+		Nightwing = {1}
+	},
+	["Wonder Woman"] = {
+		["[wonder]"] = {2300747259}
+	},
+	["Queen-Maeve"] = {
+		Sword = {2300747259},
+	},
+	Homelander = {
+		LaserEyes = {4971164958},
+		Costume = {},
+		Fly = {},
+		Homelander= {2300747259}
+	},
+	Blackpanther = {
+		Claws = {1},
+		BlackpantherSuit = {1},
+		Blackpanther = {2300747259}
+	}
 }
-ReverseFlash = {
-	["Dash Punch"] = {1},
-        ["Speed Force"] = {1},
-	ReverseFlashOutfit = {1},
-	ReverseFlash = {1}
-}.
-Invincible = {
-	["Super Punch"] = {1},
-	Fly = {1},
-	InvincibleOutfit = {1},
-	Invincible = {1}
-}.
-Nightwing = {
-	GrappleHook = {1,2300747259},
-	Glide = {1},
-	Batarang = {1},
-	NightwingOutfit = {1},
-	Nightwing = {2300747259}
-}.
-Blackpanther = {
-	Claws = {1},
-	BlackpantherSuit = {1},
-	Blackpanther = {2300747259}
-}.
