@@ -6,6 +6,10 @@
     "BatmanOutfit": [1],
     "Batman": [4368384573]
   },
+  "HumanTorch": {
+    "Purple": [4971164958, 1],
+    "Yellow": [1],
+  },
   "Mark45": {
     "Mark45": [4971164958, 4368384573]
   },
