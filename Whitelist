@@ -4,10 +4,10 @@
     "Glide": [1],
     "Batarang": [1],
     "BatmanOutfit": [1],
-    "Batman": [4368384573]
+    "Batman": [1]
   },
   "Mark45": {
-    "Mark45": [4971164958, 4368384573]
+    "Mark45": [4971164958, 1]
   },
   "Miles-Morales": {
     "Web Swing": [1],
@@ -55,7 +55,7 @@
     "Ghost": [2300747259, 1]
   },
   "InvisibleHit": {
-    "InvisibleHit": [2300747259, 4368384573]
+    "InvisibleHit": [2300747259, 1]
   },
   "IronFist": {
     "Chi Fists": [1],
@@ -121,7 +121,7 @@
     "Energy Shield": [1],
     "Flight": [1],
     "Costume": [1],
-    "GreenLantern": [1, 4368384573]
+    "GreenLantern": [1, 1]
   },
   "Invincible": {
     "Super Punch": [1],
