@@ -7,18 +7,18 @@
     "Batman": [1]
   },
   "Mark45": {
-    "Mark45": [4971164958, 1]
+    "Mark45": [1, 1]
   },
   "Miles-Morales": {
     "Web Swing": [1],
     "Wall-Climb": [1],
     "SpiderManOutfit": [1],
-    "Miles-Morales": [2300747259]
+    "Miles-Morales": [4971164958]
   },
   "Iron-Spider": {
     "Web Swing": [1],
     "SpidermanOutfit": [1],
-    "Iron-Spider": [4971164958]
+    "Iron-Spider": [1]
   },
   "SpidermanOLD": {
     "Web Swing": [1],
@@ -27,7 +27,7 @@
   },
   "ReverseFlash": {
     "Dash Punch": [1],
-    "Speed Force": [1],
+    "Speed Force": [4971164958],
     "ReverseFlashOutfit": [1],
     "ReverseFlash": [1]
   },
@@ -52,10 +52,11 @@
     "Magic Wand": [4971164958, 2300747259, 1]
   },
   "Ghost": {
-    "Ghost": [2300747259, 1]
+    "Ghost": [2300747259, 1],
+    "Ghost Ray": [4971164958, 1]
   },
   "InvisibleHit": {
-    "InvisibleHit": [2300747259, 1]
+    "InvisibleHit": [4971164958, 1]
   },
   "IronFist": {
     "Chi Fists": [1],
@@ -145,7 +146,7 @@
     "Nightwing": [1]
   },
   "Wonder Woman": {
-    "[wonder]": [2300747259]
+    "[wonder]": [4971164958]
   },
   "Queen-Maeve": {
     "Sword": [2300747259]
