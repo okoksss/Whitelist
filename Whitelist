@@ -68,6 +68,9 @@
     "Crowbar": [1],
     "Money Bag": [2300747259, 4971164958],
     "Costume": [1],
+    "Joker Bat": [4971164958],
+    "Joker Speed": [1],
+    "Cards": [4971164958],
     "Joker": [1]
   },
   "RedHulk": {
@@ -119,7 +122,7 @@
     "Catwoman": [1]
   },
   "GreenLantern": {
-    "Energy Hammer": [1],
+    "Energy Hammer": [4971164958],
     "Energy Beam": [1],
     "Energy Shield": [1],
     "Flight": [1],
